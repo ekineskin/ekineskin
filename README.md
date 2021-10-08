@@ -1,2 +1,1 @@
-### I am improving myself in the field of back end development.,
-I usually use C#, .NetCore, SQL (MSSQL, MySQL) and DbContext.
+### I am improving myself in the field of back end development. I usually use C#, .NetCore, SQL (MSSQL, MySQL) and DbContext.
