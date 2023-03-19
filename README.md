@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ekin Eşkin</h1>
 <h3 align="center">I am a professional UI/UX designer and front-end developer. I'm good at modern builds and user-friendly projects. I work on mobile applications and websites.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekineskin&label=Profile%20views&color=0e75b6&style=flat" alt="ekineskin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekineskin" alt="ekineskin" /></a> </p>
-
 - 🌱 I’m currently learning **Solidity.**
 
 - 📫 How to reach me **ekineskn@gmail.com**
