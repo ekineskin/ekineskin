@@ -11,21 +11,13 @@ Here's a little bit about me:
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,solidity,xd,git,postman" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,solidity,javascript,xd,git,postman" />
   </a>
 </p>
 
-## Android Development
-- 📱 Experienced in building Android applications using Java and Kotlin.
-- 🌐 Knowledgeable in mobile app architecture patterns, such as MVVM and Clean Architecture.
-- 🏗️ Proficient in implementing Clean Architecture principles to create scalable and maintainable code.
-- 🧠 Understands separation of concerns, dependency inversion, and other key concepts in clean code architecture.
-- 🛠️ Familiar with Android Studio and popular libraries like Retrofit, Dagger, and Room.
-
-## Blockchain and Smart Contracts
-- 🌐 Actively involved in blockchain development.
-- 💡 Solid understanding of smart contract development using Solidity.
-- 🧠 Exploring decentralized applications (DApps) and blockchain technologies.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekineskin&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
+</p>
 
 ## Get in Touch
 - 📧 Feel free to reach out to me at [ekineskn@gmail.com](mailto:ekineskn@gmail.com).
