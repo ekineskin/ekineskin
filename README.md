@@ -21,7 +21,8 @@ Here's a little bit about me:
 
 ## Get in Touch
 - 📧 Feel free to reach out to me at [ekineskn@gmail.com](mailto:ekineskn@gmail.com).
-- 🐦 Connect with me on [Twitter](https://twitter.com/ekineskn).
+- 🐦 Connect with me on [Instagram](https://instagram.com/ekineskn).
 - 💼 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/ekin-eskin/).
+- 📝 You can read my articles on [Medium](https://ekineskin.medium.com/).
 
 Let's code and build the future together!
